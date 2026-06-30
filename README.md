@@ -8,7 +8,7 @@ A clean, browser-based age calculator. Select your date of birth, hit Calculate,
 - Prevents selection of future dates
 - Handles edge cases like month-end and leap years
 - Clean gradient UI with a responsive layout
-- Zero dependencies — pure HTML, CSS, and JavaScript
+- Zero dependencies | pure HTML, CSS, and JavaScript
 
 ## Tech Stack
 
